@@ -18,6 +18,8 @@
 #define WRONG_PLACEMENT "Ship can't be placed here,as it goes out of bounds or overrides another ship\n"
 #define ALREADY_SHOT "This cell has already been shot\n"
 
+#define h_addr h_addr_list[0] /* for backward compatibility */
+
 // SOCKETS PART
 
 void error(const char *msg){
