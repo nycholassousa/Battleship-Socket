@@ -17,4 +17,6 @@ This project is the implementation in C of the battleship game.
 - Add more visual information
 - Disconnect timer
 - Finish/Close the game when any player leaves
+- Modularize code into header files
+
 
